@@ -11,3 +11,52 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+p{
+  padding:10px 200px;
+}
+.heading{
+  color:#F5C518;
+  font-size:50px;
+    font-family:'Permanent Marker';
+
+}
+.head {
+  text-decoration:none;
+  color:black;
+  font-size:30px;
+  font-weight:700;
+  background-color:#F5C518;
+  border-radius:7px;
+  padding:10px 15px;
+  margin:20px 100px;
+}
+.card{
+  font-size:10px;
+  border-radius:8px;
+  background-color:#29272C;
+  margin:20px;
+  width:200px;
+  height:80px;
+}
+.flexi{
+  display:flex;
+}
+img{
+  border-radius:10px;
+  height:85vh;
+  width:70vh;
+}
+input{
+  height:30px;
+  width:1000px;
+  margin-top:40px;
+  border-radius:7px;
+  border:0;
+  outline:none;
+}
+.container{
+  display:flex;
+  margin:40px 40px;
+}
+
+
